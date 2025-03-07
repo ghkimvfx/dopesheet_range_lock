@@ -10,7 +10,8 @@ Apply the code to `menu.py` to adjust and fix the range of the Dope Sheet to the
 It may not work in projects before `menu.py` is applied.
 <br>
 ## How to install
-Apply the code to `menu.py`
+1. Download `dopesheet_range_lock.py` from this page.
+2. Apply the code to `menu.py`
 <br>
 ## How to use
 Hover your mouse over the Dope sheet and press the F button.

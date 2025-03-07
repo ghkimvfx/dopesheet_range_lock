@@ -13,6 +13,7 @@ It may not work in projects before `menu.py` is applied.
 1. Download `dopesheet_range_lock.py` from this page.
 2. Apply the code to `menu.py`
 <br>
+
 ## How to use
 Hover your mouse over the Dope sheet and press the F button.
 If there is no change, close all the property windows and press F in the DopeSheet window to fix it.

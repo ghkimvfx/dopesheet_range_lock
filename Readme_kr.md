@@ -1,4 +1,6 @@
-## 설명
+
+## 설명![dsrl_thumbnail](https://github.com/user-attachments/assets/113c81c6-43f9-44ba-bf78-e621646ba0bb)
+
 로토나 디졸브의 효과를 넣을 때 Dope Sheet를 통해 키프레임을 조절하지만 간혹 범위가 0으로 시작하는 경우가 있어 번거로울 때가 있습니다.
 
 해당 코드는 `menu.py`에 적용하여 누크가 실행 될 때 Dope Sheet의 범위를 프레임범위에 맞게 조절하고 고정합니다.
